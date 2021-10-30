@@ -1,4 +1,4 @@
 # MemoryStore-Github
 An repository for github.
-Something learning from any lessons.
+Anything learning from lessons.
 Now! It just have meaning to author.
